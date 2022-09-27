@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+    background-color: black;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    position: relative;
+}
+
+p {
+font-size: auto px;
+}
+
+
+header {
+    display: flex; 
+    justify-content: space-between;
+    text-align: right;
+    background-color: transparent;
+  }
+
+nav ul li {
+    display: inline;
+    padding: 0px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+
+figure {
+    height: 800px;
+    width: 100%;
+    margin-top: -60px;
+    margin-bottom: 25px;
+    background-image: url("../images/downtown-raleigh.png");
+    background-size: cover;
+    background-position: center;
+}
+
+article.content1 {
+    padding: 30px;
+    border: 10px solid gray;
+}
+
+article.content1 section img {
+    max-height: 400px;
+    max-width: 300px;
+}
+
+article.content2 section h2 {
+    display: inline-block;
+}
+
+article.content2 section img {
+    display:inline-flex;
+}
+
+.social-navbar {
+    justify-content: space-between;
+    text-align: center;
+    background-color: transparent;
+  }
+
+
+.headshot-left {
+    float: inline-start;
+    margin-right: -15px;
+    margin-top: -20px;
+}
+
+
+#lets-build {
+font-size: 50px;
+background-color: transparent;
+}
+
+.first-app {
+    width: 300;
+    height: 80%;
+    border: 10px;
+}
+
+.all-other-apps img{
+    max-height: 400px;
+    min-height:300px;
+    max-width: 300px;
+    min-width: 500px;
+
+}
+
+.portfolio-class {
+        display: flex;
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+        flex-direction:row;
+        align-items: flex-start;
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+      
+}
+
+.row {
+    justify-content: center;
+  }
+  
