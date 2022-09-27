@@ -37,9 +37,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 
-### Upload Link
+### Link to Deployed Application
 
-
+https://lightinthebulb.github.io/module2-portfolio/
 
 
 
