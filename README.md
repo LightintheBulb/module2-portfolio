@@ -31,14 +31,15 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ### ScreenShot
 
+![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/96213325/192424298-6bf18304-fc96-4909-942b-fe6ad8a4b1c9.gif)
 
 
 
 
 
-### Upload Link
+### Link to Deployed Application
 
-
+https://lightinthebulb.github.io/module2-portfolio/
 
 
 
